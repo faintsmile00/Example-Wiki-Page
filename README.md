@@ -5,4 +5,4 @@ Features a written guide for the champion Kassadin in the video game League of L
 
 Concise and informative guide, split into sections for ease of access and navigatable via a navbar.
 
-Earlier project so CSS styling is extremely minimalistic, however is good showcase of a written and informative guide.
+Earlier project so CSS styling is extremely minimalistic, however is a good showcase of a written and informative guide.
